@@ -1,0 +1,11 @@
+ansi=1
+verify=1
+readline=1
+vcheck=1
+newline=1
+backload=40
+simplestart=1
+ssl=1
+mention=1
+exts=/home/shaika-dzari/Dev/Perl/TTytter/ext/PrettyTweets.pl
+
